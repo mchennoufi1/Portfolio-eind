@@ -27,10 +27,12 @@ ul {
     text-align: right;
   }
   #calculator{
+    object-fit: cover;
+    margin: auto;
     width: 320px;
     height: 520px;
     background-color: #eaedef;
-    margin: 0 auto;
+    
     top: 20px;
     position: relative;
     border-radius: 5px;

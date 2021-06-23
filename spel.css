@@ -8,9 +8,9 @@ ul {
     padding: 0;
   }
   footer{
-      background-color: black;
-      color: white;
-      text-align: center;
+    background-color: black;
+    color: white;
+    text-align: center;
     object-fit: cover;
   }
   
@@ -32,7 +32,6 @@ ul {
     width: 320px;
     height: 520px;
     background-color: #eaedef;
-    
     top: 20px;
     position: relative;
     border-radius: 5px;
@@ -112,7 +111,7 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-background-color: black;
+    background-color: black;
   }
   .grid div{
     width: 200px;
@@ -121,7 +120,7 @@ background-color: black;
     margin-bottom: 5px;
   }
   .playerX{
-background-image: url('kruisje.png');
+    background-image: url('kruisje.png');
   }
   .playerO{
     background-image: url('circle.png');

@@ -22,6 +22,5 @@ function toggleTheme() {
    }
 })();
 
-
 const button = document.querySelector('#switch');
 button.addEventListener("click", toggleTheme);

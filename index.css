@@ -2,6 +2,9 @@ main {
   text-align: center;
   object-fit: cover;
 }
+body{
+  margin: auto;
+}
 
 ul {
   list-style-type: none;

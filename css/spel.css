@@ -7,9 +7,6 @@ ul {
     margin: 0;
     padding: 0;
   }
-  body{
-    margin: auto;
-  }
   footer{
     background-color: black;
     color: white;
@@ -123,7 +120,7 @@ ul {
     margin-bottom: 5px;
   }
   .playerX{
-    background-image: url('kruisje.png');
+    background-image: url('tic.png');
   }
   .playerO{
     background-image: url('circle.png');

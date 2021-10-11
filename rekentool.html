@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html class="theme-light">
+    <head>
+        <link rel="stylesheet" href="css/index.css">
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https:/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.css"> 
+        <meta name="viewport" content = "width = device-width, initial scale = 1.0">
+        <title>Rekenmachine</title>
+    </head>
+    <body>
+        <header>
+            
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="index.html"><img src="img/diamant.jpg" alt="Logo" width="50px" height="50px" style="object-fit: cover;"></a>
+            <br>
+                        <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNavAltMarkup" 
+                                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                                    <div class="navbar-nav">
+                                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
+                                        <a class="nav-link" href="over.html">Over ons</a>
+                                        <a class="nav-link" href="cv.html">CV</a>
+                                        <a class="nav-link" href="contact.html">Contact</a>
+                                        <a class="nav-link" href="projecten.html">Projecten</a>
+                                        <a class="nav-link active" href="rekentool.html">Rekenmachine</a>
+                                        <a class="nav-link" href="spel.html">Tic Tac Toe</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+            <br>
+            <div class="container" id="Switcher">
+                <h3>Change Webpage Background</h3>
+                <button id="switch" onclick="toggleTheme()">Switch</button>
+            </div>
+            <br><br>
+        </header>
+        <main>
+            <h3>Calculator</h3>
+            <div id="container">
+                <div id="calculator">
+                    <div id="result">
+                        <div id="history">
+                            <p id="history-value"></p>
+                        </div>
+                        <div id="output">
+                            <p id="output-value"></p>
+                        </div>
+                    </div>
+                    <div id="keyboard">
+                        <button class="operator" id="clear">C</button>
+				        <button class="operator" id="backspace">CE</button>
+				        <button class="operator" id="%">%</button>
+				        <button class="operator" id="/">&#247;</button>
+				        <button class="number" id="7">7</button>
+				        <button class="number" id="8">8</button>
+				        <button class="number" id="9">9</button>
+				        <button class="operator" id="*">&times;</button>
+				        <button class="number" id="4">4</button>
+				        <button class="number" id="5">5</button>
+				        <button class="number" id="6">6</button>
+				        <button class="operator" id="-">-</button>
+				        <button class="number" id="1">1</button>
+				        <button class="number" id="2">2</button>
+				        <button class="number" id="3">3</button>
+				        <button class="operator" id="+">+</button>
+				        <button class="empty" id="empty"></button>
+				        <button class="number" id="0">0</button>
+				        <button class="empty" id="empty"></button>
+				        <button class="operator" id="=">=</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            Mohammed Chennoufi 2021
+        </footer>
+        <hr>
+    </body>
+    <script src="js/rekentool.js"></script>
+    <script src="js/mdb.min.js"></script>
+    <script src="js/mdb.min.js.map"></script>
+</html>

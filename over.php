@@ -6,38 +6,15 @@
         <link rel="stylesheet" href="https:/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="css/bootstrap.css"> 
         <meta name="viewport" content = "width = device-width, initial scale = 1.0">
-        <title>Over Mij</title>
+        <title>Over Mij | Portfolio</title>
     </head>
     <body>
         <header>
-            
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="index.html"><img src="img/diamant.jpg" alt="Logo" width="50px" height="50px" style="object-fit: cover;"></a>
-            <br>
-                        <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNavAltMarkup" 
-                                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="navbar-toggler-icon"></span>
-                                </button>
-                                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                                    <div class="navbar-nav">
-                                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
-                                        <a class="nav-link active" href="over.html">Over ons</a>
-                                        <a class="nav-link" href="cv.html">CV</a>
-                                        <a class="nav-link" href="contact.html">Contact</a>
-                                        <a class="nav-link" href="projecten.html">Projecten</a>
-                                        <a class="nav-link" href="rekentool.html">Rekenmachine</a>
-                                        <a class="nav-link" href="spel.html">Tic Tac Toe</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </nav>
-            <br>
-            <div class="container" id="Switcher">
-                <h3>Change Webpage Background</h3>
-                <button id="switch"">Switch</button>
-            </div>
-            <br>
+            <?php
+                require("includes/database.php");
+                $page = "over";
+                include("includes/header.php");
+            ?>
         </header>
         <main>
             <div class="row">

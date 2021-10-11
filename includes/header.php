@@ -11,7 +11,7 @@
                 <a class="nav-link" aria-current="page" href="index.php" 
                 style="<?php if($page == "home"){echo "color: black";}?>">Home</a>
                 <a class="nav-link" aria-current="page" href="over.php"
-                style="<?php if($page == "over"){echo "color: black";}?>">Over ons</a>
+                style="<?php if($page == "over"){echo "color: black";}?>">Over mij</a>
                 <a class="nav-link" aria-current="page" href="cv.php"
                 style="<?php if($page == "cv"){echo "color: black";}?>">CV</a>
                 <a class="nav-link" aria-current="page" href="contact.php"

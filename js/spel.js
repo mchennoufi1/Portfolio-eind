@@ -1,5 +1,3 @@
-// main.js - het Javascript bestand voor Sprint 2
-
 // function to set a given theme/color-scheme
 function setTheme(themeName) {
     localStorage.setItem('theme', themeName);
@@ -28,12 +26,12 @@ button.addEventListener("click", toggleTheme);
 
 
 document.addEventListener('DOMContentLoaded', () => {
-const squares = document.querySelectorAll('.grid div')
-const playerDisplay = document.querySelector('#player')
-let currentPlayer = 'playerX'
+const squares = document.querySelectorAll('.grid div');
+const playerDisplay = document.querySelector('#player');
+let currentPlayer = 'playerX';
 
 squares.forEach(square => {
-square.addEventListener('click', clickOutcome)
+square.addEventListener('click', clickOutcome);
 })
 
 function clickOutcome(e){
@@ -42,11 +40,11 @@ const index = squareArray.indexOf(e.target)
 playerDisplay.innerHTML = currentPlayer
 
 if(currentPlayer === 'playerX'){
-    squares[index].classList.add('playerX')
-    currentPlayer = 'playerO'
+    squares[index].classList.add('playerX');
+    currentPlayer = 'playerO';
 } else{
-    squares[index].classList.add('playerO')
-    currentPlayer = 'playerX'
+    squares[index].classList.add('playerO');
+    currentPlayer = 'playerX';
 }
 }
 })

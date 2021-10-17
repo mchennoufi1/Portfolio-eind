@@ -15,7 +15,7 @@ ul {
   }
   
   .theme-light{
-    background-color: aliceblue;
+    background-color: rgb(212, 229, 244);
     color: rgb(0, 0, 0);
   }
   .theme-dark{
@@ -34,7 +34,7 @@ ul {
     top: 20px;
     position: relative;
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
   }
   #result{
     height: 120px;
@@ -67,7 +67,7 @@ ul {
     font-size: 15px;
   }
   .number, .empty{
-    background-color: #eaedef;
+    background-color: #cce7f9;
   }
   .number, .operator{
     cursor: pointer;
@@ -110,7 +110,7 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: black;
+    background-color: rgb(199, 219, 251);
   }
   .grid div{
     width: 200px;

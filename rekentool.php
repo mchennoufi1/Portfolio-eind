@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html class="theme-light">
-<head>
+    <head>
         <?php
             include("includes/head.php");
             require("includes/database.php");
         ?>
-        <title>Rekentool | Portfolio</title>
+        <title>Rekentool - Portfolio</title>
     </head>
     <body>
         <header>
@@ -51,11 +51,12 @@
                 </div>
             </div>
         </main>
+        <br>
         <footer>
             Mohammed Chennoufi 2021
         </footer>
-        <hr>
     </body>
+    <script src="js/index.js"></script>
     <script src="js/rekentool.js"></script>
     <script src="js/mdb.min.js"></script>
     <script src="js/mdb.min.js.map"></script>

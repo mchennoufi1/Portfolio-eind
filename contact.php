@@ -23,8 +23,9 @@
                             <h3 class="card-title">Contactgegevens</h3>
                             <p class="card-header">Naam: Mohammed Chennoufi</p>
                             <p class="card-header">Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
-                            <p class="card-header">E-Mail: 
-                            <a href="mailto:302318631@student.rocmondriaan.nl">302318631@student.rocmondriaan.nl</a></p>
+                            <p class="card-header">E-Mail:
+                            <a href="mailto:mohammed_chennoufi@outlook.com">mohammed_chennoufi@outlook.com</a>
+                            </p>
                             <p class="card-header">Social media: 
                                 <a href="https://www.instagram.com/mohammed070._/">mohammed070._</a>
                             </p>

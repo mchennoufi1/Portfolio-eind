@@ -16,6 +16,7 @@
             ?>
         </header>
         <main>
+            <hr>
             <h3 id="player">playerX</h3>
             <br><br>
             <div class="grid">

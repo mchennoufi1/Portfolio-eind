@@ -24,17 +24,20 @@
                             <p class="card-header">Naam: Mohammed Chennoufi</p>
                             <p class="card-header">Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
                             <p class="card-header">E-Mail: mohammed_chennoufi@outlook.com</p>
-
+                            <br>
                             <form action="" method="post">
-                            <label>Email Address</label>
-                            <input type="text" name="email_address" size="20">
-                            <br>
-                            <label>Your Feedback</label>
-                            <textarea name="feedback" cols="25" rows="5"></textarea>
-                            <br>
-                            <input type="submit" name="submit" value="submit">
+                            <div>
+                                <label>Email Address:</label>
+                                <input type="email" name="email_address" size="20">
+                            </div>
+                            <div>
+                                <label>Your Feedback:</label>
+                                <textarea name="feedback" cols="20" rows="4"></textarea>
+                            </div>
+                            <div>
+                                <input type="submit" name="submit" value="submit">
+                            </div>
                             </form>
-
                             <p class="card-header">Social media: 
                                 <a href="https://www.instagram.com/mohammed070._/">mohammed070._</a>
                             </p>

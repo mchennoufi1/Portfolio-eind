@@ -15,6 +15,7 @@
             ?>
         </header>
         <main>
+            <hr>
             <h3>Calculator</h3>
             <div id="container">
                 <div id="calculator">

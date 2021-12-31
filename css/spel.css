@@ -13,33 +13,18 @@ ul {
     text-align: center;
     object-fit: cover;
   }
-  
-  .theme-light{
-    background-color: rgb(212, 229, 244);
-    color: rgb(0, 0, 0);
-  }
-  .theme-dark{
-    background-color: rgb(54, 54, 54);
-    color: white;
-  }
 
-  #Switcher{
-    text-align: right;
-  }
-
-  
   .grid{
     margin: auto;
     width: 80%;
     height: 630px;
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(200, 220, 251);
   }
   .grid div{
     width: 33.33%;
     height: 33.33%;
-    border: 0.5px black solid;
+    border: 1.5px black solid;
   }
   .playerX{
     background-image: url('../img/tic.png');

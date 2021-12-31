@@ -9,24 +9,24 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link" aria-current="page" href="index.php" 
-                style="<?php if($page == "home"){echo "color: black";}?>">Home</a>
+                style="<?php if($page == "home"){echo "color: rgb(38, 34, 34)";}?>">Home</a>
                 <a class="nav-link" aria-current="page" href="over.php"
-                style="<?php if($page == "over"){echo "color: black";}?>">Over mij</a>
+                style="<?php if($page == "over"){echo "color: rgb(38, 34, 34)";}?>">Over mij</a>
                 <a class="nav-link" aria-current="page" href="cv.php"
-                style="<?php if($page == "cv"){echo "color: black";}?>">CV</a>
+                style="<?php if($page == "cv"){echo "color: rgb(38, 34, 34)";}?>">CV</a>
                 <a class="nav-link" aria-current="page" href="contact.php"
-                style="<?php if($page == "contact"){echo "color: black";}?>">Contact</a>
+                style="<?php if($page == "contact"){echo "color: rgb(38, 34, 34)";}?>">Contact</a>
                 <a class="nav-link" aria-current="page" href="projecten.php"
-                style="<?php if($page == "projecten"){echo "color: black";}?>">Projecten</a>
+                style="<?php if($page == "projecten"){echo "color: rgb(38, 34, 34)";}?>">Projecten</a>
                 <a class="nav-link" aria-current="page" href="rekentool.php"
-                style="<?php if($page == "rekentool"){echo "color: black";}?>">Rekenmachine</a>
+                style="<?php if($page == "rekentool"){echo "color: rgb(38, 34, 34)";}?>">Rekenmachine</a>
                 <a class="nav-link" aria-current="page" href="spel.php"
-                style="<?php if($page == "spel"){echo "color: black";}?>">Tic Tac Toe</a>
+                style="<?php if($page == "spel"){echo "color: rgb(38, 34, 34)";}?>">Tic Tac Toe</a>
             </div>
         </div>
     </div>
 </nav>
-<br>
+<br><br>
 <div class="container" id="Switcher">
     <h3>Change Webpage Background</h3>
     <button id="switch"">Switch</button>

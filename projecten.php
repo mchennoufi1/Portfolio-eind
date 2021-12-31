@@ -22,9 +22,9 @@
                         <h2 class="card-title">Projecten</h2>
                         <br><br>
                         <h3 class="card-header">CV opdracht</h3>
-                        <a href="cv.php"><img class="card-body" src="img/cv-deel1.png" alt="CV" width="750px"></a>
+                        <a href="cv.php"><img class="card-body" src="img/cv-deel1.png" alt="CV" width="80%"></a>
                         <h3 class="card-header">Grid opdracht</h3>
-                        <img class="card-body" src="img/grid-oefen.png" alt="CV" width="750px">
+                        <img class="card-body" src="img/grid-oefen.png" alt="CV" width="80%">
                         <h3 class="card-header">Thema-Switcher</h3>
                         <br><br>
                         <p class="card-body">De Thema-Switcher staat op elke pagina van mijn 
@@ -33,7 +33,7 @@
                             Ik ben er trots op dat de thema niet terugveranderd naar licht 
                             wanneer de pagina wordt gerefreshed.
                         </p>
-                        <a href="index.php"><img class="card-body" src="img/thema-switcher.png" alt="CV" width="750px"></a>
+                        <a href="index.php"><img class="card-body" src="img/thema-switcher.png" alt="CV" width="80%"></a>
                         <h3 class="card-header">Calculator</h3>
                         <br><br>
                         <p class="card-body">De calculator staat op de <a href="rekentool.php">rekentool</a>
@@ -41,12 +41,12 @@
                             elkaar op te tellen. Ik ben er trots op dat ik de calculator
                             verschillende kleuren heb kunnen geven.
                         </p>
-                        <a href="rekentool.php"><img class="card-body" src="img/calculator.png" alt="CV" width="750px"></a>
+                        <a href="rekentool.php"><img class="card-body" src="img/calculator.png" alt="CV" width="80%"></a>
                         <h3 class="card-header">Tic Tac Toe</h3>
                         <p class="card-body">De Tic Tac Toe staat op de <a href="spel.php">Tic Tac Toe</a> pagina. 
                             Ik ben er trots op dat de naam van de spelers op het scherm kan wisselen.
                         </p>
-                        <a href="spel.php"><img class="card-body" src="img/spel.png" alt="CV" width="750px"></a>
+                        <a href="spel.php"><img class="card-body" src="img/spel.png" alt="CV" width="80%"></a>
                         <br><br>
                     </div>
                 </div>

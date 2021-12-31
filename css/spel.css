@@ -26,101 +26,25 @@ ul {
   #Switcher{
     text-align: right;
   }
-  #calculator{
-    object-fit: cover;
-    margin: auto;
-    width: 320px;
-    height: 520px;
-    top: 20px;
-    position: relative;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
-  }
-  #result{
-    height: 120px;
-  }
-  #history{
-    text-align: right;
-    height: 20px;
-    margin: 0 20px;
-    padding-top: 20px;
-    font-size: 15px;
-    color: #919191;
-  }
-  #output{
-    text-align: right;
-    height: 60px;
-    margin: 10px 20px;
-    font-size: 30px;
-  }
-  #keyboard{
-    height: 400px;
-  }
-  .operator, .number, .empty{
-    width: 50px;
-    height: 50px;
-    margin: 15px;
-    float: left;
-    border-radius: 50%;
-    border-width: 0;
-    font-weight: bold;
-    font-size: 15px;
-  }
-  .number, .empty{
-    background-color: #cce7f9;
-  }
-  .number, .operator{
-    cursor: pointer;
-  }
-  .operator:active, .number:active{
-    font-size: 13px;
-  }
-  .operator:focus, .number:focus, .empty:focus{
-    outline: 0;
-  }
-  button:nth-child(4){
-    font-size: 20px;
-    background-color: #20b2aa;
-  }
-  button:nth-child(8){
-    font-size: 20px;
-    background-color: #ffa500;
-  }
-  button:nth-child(12){
-    font-size: 20px;
-    background-color: #f08080;
-  }
-  button:nth-child(16){
-    font-size: 20px;
-    background-color: #7d93e0;
-  }
-  button:nth-child(20){
-    font-size: 20px;
-    background-color: #9477af;
-  }
-  #container{
-    width: 1000px;
-    height: 550px;
-    margin: 0px auto;	
-  }
+
+  
   .grid{
     margin: auto;
-    width: 610px;
-    height: 610px;
+    width: 680px;
+    height: 680px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    background-color: rgb(199, 219, 251);
+    background-color: rgb(200, 220, 251);
   }
   .grid div{
-    width: 200px;
-    height: 200px;
-    margin-bottom: 5px;
+    width: 33.33%;
+    height: 33.33%;
+    border: 0.5px black solid;
   }
   .playerX{
-    background-image: url('tic.png');
+    background-image: url('../img/tic.png');
   }
   .playerO{
-    background-image: url('circle.png');
+    background-image: url('../img/toe.png');
   }
   

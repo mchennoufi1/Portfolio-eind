@@ -43,7 +43,6 @@ footer {
   width: 320px;
   height: 520px;
   background-color: #eaedef;
-
   top: 20px;
   position: relative;
   border-radius: 5px;
@@ -134,7 +133,6 @@ button:nth-child(20) {
 }
 
 #container {
-  width: 1000px;
   height: 550px;
   margin: 0px auto;
 }

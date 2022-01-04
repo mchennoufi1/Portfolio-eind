@@ -9,19 +9,19 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link" aria-current="page" href="index.php" 
-                style="<?php if($page == "home"){echo "color: rgb(38, 34, 34)";}?>">Home</a>
-                <a class="nav-link" aria-current="page" href="over.php"
-                style="<?php if($page == "over"){echo "color: rgb(38, 34, 34)";}?>">Over mij</a>
+                style="<?php if($page == "home"){echo "color: rgb(68, 70, 74)!important";}?>">Home</a>
+                <a class="nav-link"  aria-current="page" href="over.php"
+                style="<?php if($page == "over"){echo "color: rgb(68, 70, 74)!important";}?>">Over mij</a>
                 <a class="nav-link" aria-current="page" href="cv.php"
-                style="<?php if($page == "cv"){echo "color: rgb(38, 34, 34)";}?>">CV</a>
+                style="<?php if($page == "cv"){echo "color: rgb(68, 70, 74)!important";}?>">CV</a>
                 <a class="nav-link" aria-current="page" href="contact.php"
-                style="<?php if($page == "contact"){echo "color: rgb(38, 34, 34)";}?>">Contact</a>
+                style="<?php if($page == "contact"){echo "color: rgb(68, 70, 74)!important";}?>">Contact</a>
                 <a class="nav-link" aria-current="page" href="projecten.php"
-                style="<?php if($page == "projecten"){echo "color: rgb(38, 34, 34)";}?>">Projecten</a>
+                style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Projecten</a>
                 <a class="nav-link" aria-current="page" href="rekentool.php"
-                style="<?php if($page == "rekentool"){echo "color: rgb(38, 34, 34)";}?>">Rekenmachine</a>
+                style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
                 <a class="nav-link" aria-current="page" href="spel.php"
-                style="<?php if($page == "spel"){echo "color: rgb(38, 34, 34)";}?>">Tic Tac Toe</a>
+                style="<?php if($page == "spel"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
             </div>
         </div>
     </div>

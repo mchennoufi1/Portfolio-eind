@@ -23,8 +23,10 @@
                         <br><br>
                         <h3 class="card-header">CV opdracht</h3>
                         <a href="cv.php"><img class="card-body" src="img/cv-deel1.png" alt="CV" width="80%"></a>
+
                         <h3 class="card-header">Grid opdracht</h3>
                         <img class="card-body" src="img/grid-oefen.png" alt="CV" width="80%">
+
                         <h3 class="card-header">Thema-Switcher</h3>
                         <br><br>
                         <p class="card-body">De Thema-Switcher staat op elke pagina van mijn 
@@ -34,6 +36,7 @@
                             wanneer de pagina wordt gerefreshed.
                         </p>
                         <a href="index.php"><img class="card-body" src="img/thema-switcher.png" alt="CV" width="80%"></a>
+
                         <h3 class="card-header">Calculator</h3>
                         <br><br>
                         <p class="card-body">De calculator staat op de <a href="rekentool.php">rekentool</a>
@@ -42,12 +45,22 @@
                             verschillende kleuren heb kunnen geven.
                         </p>
                         <a href="rekentool.php"><img class="card-body" src="img/calculator.png" alt="CV" width="80%"></a>
+
                         <h3 class="card-header">Tic Tac Toe</h3>
                         <p class="card-body">De Tic Tac Toe staat op de <a href="spel.php">Tic Tac Toe</a> pagina. 
                             Ik ben er trots op dat de naam van de spelers op het scherm kan wisselen.
                         </p>
                         <a href="spel.php"><img class="card-body" src="img/spel.png" alt="CV" width="80%"></a>
                         <br><br>
+
+                        <h3 class="card-header">Zuzu</h3>
+                        <p class="card-body">De website Zuzu is gemaakt als een webshop, 
+                            waarin klanten diverse sushi kunnen bestellen.
+                        </p>
+                        <img class="card-body" src="img/zuzu.jpeg" alt="zuzu" width="80%">
+                        <br>
+                        
+                        
                     </div>
                 </div>
             </div>

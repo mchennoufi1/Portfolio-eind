@@ -13,11 +13,19 @@ body{
 .inhoud-begin {
   margin-bottom: 15px;
 }
+.inhoud-begin .card{
+  width: 90%;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(32, 32, 32, 0.2), 
+  0 5px 15px 0 rgba(30, 30, 30, 0.19);
+}
 .inhoud-begin h6{
   text-align: center;
 }
 .inhoud-begin .col-md-4{
-  padding: 10px;
+  padding: 0;
+  padding-left: 5px;
 }
 footer {
   background-color: black;

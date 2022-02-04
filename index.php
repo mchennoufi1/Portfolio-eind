@@ -38,21 +38,21 @@
                     <div class="col-md-4">
                     <a href="spel.php"><div class="card">
                     <h6 class="card-body">Tic Tac Toe</h6>
-                    <img class="calculatorfoto" src="img/spel.png" alt="spel" width="100%" height="150px" style="object-fit: cover;">         
+                    <img class="calculatorfoto" src="img/spel.png" alt="spel" width="100%" height="200px" style="object-fit: cover;">         
                     </div>
                     </div>
                     </a>
                     <div class="col-md-4">
                     <a href="rekentool.php"><div class="card">
-                    <h6 class="card-body">rekentool</h6>
-                    <img class="calculatorfoto" src="img/calculator.png" alt="calculator" width="100%" height="150px" style="object-fit: cover;">             
+                    <h6 class="card-body">Rekentool</h6>
+                    <img class="calculatorfoto" src="img/calculator.png" alt="calculator" width="100%" height="200px" style="object-fit: cover;">             
                     </div>
                     </div>
                     </a>
                     <div class="col-md-4">
                     <a href="index.php"><div class="card">
                     <h6 class="card-body">Thema-switcher</h6>
-                    <img class="calculatorfoto" src="img/thema-switcher.png" alt="thema-switcher" width="100%" height="150px" style="object-fit: cover;">         
+                    <img class="calculatorfoto" src="img/thema-switcher.png" alt="thema-switcher" width="100%" height="200px" style="object-fit: cover;">         
                     </div>
                     </a>
             </div>

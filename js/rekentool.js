@@ -1,7 +1,4 @@
 
-const button = document.querySelector('#switch')
-button.addEventListener("click", toggleTheme)
-
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }

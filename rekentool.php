@@ -5,6 +5,7 @@
             include("includes/head.php");
             require("includes/database.php");
         ?>
+        <link rel="stylesheet" href="css/rekentool.css"> 
         <title>Rekentool - Portfolio</title>
     </head>
     <body>

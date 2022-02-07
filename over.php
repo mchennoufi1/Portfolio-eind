@@ -55,7 +55,6 @@
         <footer>
             Mohammed Chennoufi 2021
         </footer>
-        <hr>
         <script src="js/index.js"></script>
         <script src="js/mdb.min.js"></script>
         <script src="js/mdb.min.js.map"></script>

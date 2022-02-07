@@ -25,17 +25,17 @@
                             <p class="card-header">Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
                             <p class="card-header">E-Mail: mohammed_chennoufi@outlook.com</p>
                             <br>
-                            <form action="" method="post">
-                            <div>
-                                <label>Email Address:</label>
-                                <input type="email" name="email_address" size="20">
+                            <form class="my-form" action="" method="post">
+                            <div class="form-group">
+                                <label>Email-adres:</label>
+                                <input type="text" name="email_address" size="20">
                             </div>
-                            <div>
-                                <label>Your Feedback:</label>
+                            <div class="form-group">
+                                <label>Bericht:</label>
                                 <textarea name="feedback" cols="20" rows="4"></textarea>
                             </div>
-                            <div>
-                                <input type="submit" name="submit" value="submit">
+                            <div class="form-group">
+                                <input type="submit" name="submit" value="Versturen">
                             </div>
                             </form>
                             <p class="card-header">Social media: 
@@ -69,7 +69,6 @@
 
                 </div>
             </div>
-            <br><br>
         </main>
         <footer>
             Mohammed Chennoufi 2021

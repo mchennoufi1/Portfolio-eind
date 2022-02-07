@@ -16,7 +16,6 @@
             ?>
         </header>
         <main>
-            <hr>
             <br>
             <h3 id="player">playerX</h3>
             <br>
@@ -36,7 +35,6 @@
         <footer>
             Mohammed Chennoufi 2021
         </footer>
-        <hr>
         <script src="js/spel.js"></script>
         <script src="js/mdb.min.js"></script>
         <script src="js/mdb.min.js.map"></script>

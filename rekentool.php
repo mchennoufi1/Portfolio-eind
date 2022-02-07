@@ -16,9 +16,8 @@
             ?>
         </header>
         <main>
-            <hr>
-            <h3>Calculator</h3>
             <div id="container">
+                <h3>Calculator</h3>
                 <div id="calculator">
                     <div id="result">
                         <div id="history">

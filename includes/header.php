@@ -24,7 +24,7 @@
                 style="<?php if($page == "spel"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
             </div>
         </div>
-    </div>
+</div>
 </nav>
 <br><br>
 <div class="container" id="Switcher">

@@ -24,6 +24,7 @@
                             <p class="card-header">Naam: Mohammed Chennoufi</p>
                             <p class="card-header">Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
                             <p class="card-header">E-Mail: mohammed_chennoufi@outlook.com</p>
+                            <p class="card-header">LinkedIn: <a href="https://www.linkedin.com/in/mohammed-chennoufi-aa687a207/">Mohammed Chennoufi</a></p>
                             <br>
                             <form class="my-form" action="" method="post">
                             <div class="form-group">

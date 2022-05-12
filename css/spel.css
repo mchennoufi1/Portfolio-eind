@@ -16,7 +16,7 @@ ul {
 
   .grid{
     margin: auto;
-    width: 80%;
+    width: 50%;
     height: 630px;
     max-width: 900px;
     display: flex;
@@ -37,4 +37,16 @@ ul {
     background-repeat: no-repeat;
     background-size: 100% 100%;
   }
-  
+  @media(max-width: 1024px){
+    .grid{
+      width: 75%;
+    }
+  } @media(max-width: 575px){
+    .grid{
+      max-height: 375px;
+    }
+  } @media (max-width: 408px){
+    .grid{
+      width: 90%;
+    }
+  }

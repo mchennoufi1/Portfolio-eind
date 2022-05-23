@@ -20,8 +20,15 @@
                 style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Projecten</a>
                 <a class="nav-link" aria-current="page" href="rekentool.php"
                 style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
-                <a class="nav-link" aria-current="page" href="spel.php"
-                style="<?php if($page == "spel"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
+                <div class="nav-link dropdown">
+                    <button class="dropbtn">Spellen
+                    <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                    <a class="nav-link" aria-current="page" href="spel.php"
+                    style="<?php if($page == "spel"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
+                    </div>
+                </div>
             </div>
         </div>
 </div>

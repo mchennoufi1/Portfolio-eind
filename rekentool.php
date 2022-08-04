@@ -51,6 +51,8 @@
                     </div>
                 </div>
             </div>
+                
+
         </main>
         <br>
         <footer>
@@ -58,7 +60,7 @@
         </footer>
     </body>
     <script src="js/index.js"></script>
+    <script src="js/bmi.js"></script>
     <script src="js/rekentool.js"></script>
     <script src="js/mdb.min.js"></script>
-    <script src="js/mdb.min.js.map"></script>
 </html>

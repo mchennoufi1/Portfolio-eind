@@ -18,6 +18,8 @@
                 style="<?php if($page == "contact"){echo "color: rgb(68, 70, 74)!important";}?>">Contact</a>
                 <a class="nav-link" aria-current="page" href="projecten.php"
                 style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Projecten</a>
+                <a class="nav-link" aria-current="page" href="bmi.php"
+                style="<?php if($page == "bmi"){echo "color: rgb(68, 70, 74)!important";}?>">Bmi</a>
                 <a class="nav-link" aria-current="page" href="rekentool.php"
                 style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
                 <div class="nav-link dropdown">
@@ -36,6 +38,6 @@
 <br><br>
 <div class="container" id="Switcher">
     <h3>Change Webpage Background</h3>
-    <button id="switch"">Switch</button>
+    <btn id="switch">Switch</btn>
 </div>
 <br>

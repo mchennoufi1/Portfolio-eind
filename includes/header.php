@@ -20,6 +20,8 @@
                 style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Projecten</a>
                 <a class="nav-link" aria-current="page" href="bmi.php"
                 style="<?php if($page == "bmi"){echo "color: rgb(68, 70, 74)!important";}?>">Bmi</a>
+                <a class="nav-link" aria-current="page" href="roi.php"
+                style="<?php if($page == "roi"){echo "color: rgb(68, 70, 74)!important";}?>">Roi</a>
                 <a class="nav-link" aria-current="page" href="rekentool.php"
                 style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
                 <div class="nav-link dropdown">

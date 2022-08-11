@@ -1,0 +1,41 @@
+main{
+    margin: auto;
+    max-width: 1300px;
+}
+
+.section-roi{
+    margin: auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.section-roi .level{
+    padding: 15px;
+}
+
+.section-roi button{
+    margin: 5px;
+    margin-left: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: rgb(38, 57, 77) 0px 0.5px 1px 0px;
+}
+
+.section-roi h3{
+text-align: center;
+padding-bottom: 10px;
+}
+
+.section-results {
+    margin: auto;
+    padding: 10px;
+}
+
+.section-results .subtitle-r{
+    padding-top: 20px;
+}
+
+.section-results h3{
+    text-align: center;
+    padding-top: 30px;
+}

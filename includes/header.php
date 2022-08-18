@@ -29,8 +29,8 @@
                     <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                    <a class="nav-link" aria-current="page" href="spel.php"
-                    style="<?php if($page == "spel"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
+                    <a class="nav-link" aria-current="page" href="tictactoe.php"
+                style="<?php if($page == "tic"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
                     </div>
                 </div>
             </div>

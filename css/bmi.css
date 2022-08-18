@@ -15,8 +15,9 @@
     text-align: center;
     padding: 15px;
     margin: auto;
-    max-width: 800px;
     max-height: 800px;
+    height: 450px;
+    padding-top: 100px;
     width: 80%;
     background: black;
     border-radius: 5px;
@@ -31,8 +32,10 @@
     padding: 5px;
   }
   .wrapper button{
-      text-align: center;
+      align-items: center;
+      justify-content: center;
       max-width: 150px;
+      margin: auto;
     color: white;
     padding: 10px;
     border: 2px solid white;

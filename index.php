@@ -22,7 +22,7 @@
                         <div class="card-body justify-content-center">
                             <span><img src="img/leeuw.jpeg" alt="code" width="100%" height="300px"style="object-fit: cover;"></span>
                             <h3 class="card-body">Mohammed Chennoufi</h3>
-                             <p class="card-body">Ik ben Mohammed Chennoufi en ik ben 18 jaar oud. 
+                             <p class="card-body">Ik ben Mohammed Chennoufi en ik ben 19 jaar oud. 
                                 Ik volg nu de opleiding Software Developer Niveau 4, op het ROC Mondriaan Locatie Tinwerf. 
                                 Mijn hobbies zijn sporten, gamen, films kijken, youtube video's kijken en boeken lezen. 
                                 Ik help graag mensen en ik spreek respectvol tegenover anderen. 

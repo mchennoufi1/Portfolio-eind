@@ -16,7 +16,7 @@
             
         </header>
         <main>
-            <div class=" row">
+            <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="card">
                         <div class="card-body justify-content-center">

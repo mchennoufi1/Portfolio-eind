@@ -26,7 +26,7 @@
         <input type="text" class="form-control" id="principal" placeholder="Enter amount without dollar sign">
       </div>
       <div class="form-group">
-        <label for="return">Percentage of Return</label>
+        <label for="return">Percentage of Return in Years</label>
         <input type="text" class="form-control" id="return" placeholder="Example: 10">
       </div>
       <div class="form-group">

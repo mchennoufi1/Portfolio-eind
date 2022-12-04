@@ -33,6 +33,15 @@
                 style="<?php if($page == "tic"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
                     </div>
                 </div>
+                <div class="nav-link dropdown">
+                    <button class="dropbtn">Traden
+                    <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                    <a class="nav-link" aria-current="page" href="size.php"
+                style="<?php if($page == "size"){echo "color: rgb(68, 70, 74)!important";}?>">Size Calculator</a>
+                    </div>
+                </div>
             </div>
         </div>
 </div>

@@ -1,0 +1,47 @@
+main{
+    text-align: center;
+    margin: auto;
+}
+main h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+table{
+    margin: auto;
+    max-width: 1000px;
+    width: 80%;
+    border: 1px solid;
+    border-radius: 5px;
+}
+table thead, th, td{
+    border: 1px solid;
+}
+table ul{
+    padding-left: 1px;
+    list-style: none;
+}
+table .week-l{
+    background-color: rgb(226, 57, 57);
+}
+
+table .week-c{
+    background-color: rgb(33, 192, 33);
+}
+
+table .week-n{
+    background-color: rgb(54, 185, 229);
+}
+
+#position-size-calculator-336545{
+    margin: auto;
+    margin-bottom: 50px;
+    padding-left: 40px;
+}
+@media (max-width: 767px){
+    #position-size-calculator-336545{
+        padding-left: 0px;
+      margin: auto;
+      width: 95%;
+      margin-bottom: 50px;
+    }
+  }

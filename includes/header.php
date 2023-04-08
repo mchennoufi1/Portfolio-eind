@@ -16,14 +16,23 @@
                 style="<?php if($page == "cv"){echo "color: rgb(68, 70, 74)!important";}?>">CV</a>
                 <a class="nav-link" aria-current="page" href="contact.php"
                 style="<?php if($page == "contact"){echo "color: rgb(68, 70, 74)!important";}?>">Contact</a>
-                <a class="nav-link" aria-current="page" href="projecten.php"
-                style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Projecten</a>
-                <a class="nav-link" aria-current="page" href="bmi.php"
-                style="<?php if($page == "bmi"){echo "color: rgb(68, 70, 74)!important";}?>">Bmi</a>
-                <a class="nav-link" aria-current="page" href="roi.php"
-                style="<?php if($page == "roi"){echo "color: rgb(68, 70, 74)!important";}?>">Roi</a>
-                <a class="nav-link" aria-current="page" href="rekentool.php"
-                style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
+                <div class="nav-link dropdown">
+                    <button class="dropbtn">Projecten
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a class="nav-link" aria-current="page" href="projecten.php"
+                           style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Project Overzicht</a>
+                        <a class="nav-link" aria-current="page" href="bmi.php"
+                           style="<?php if($page == "bmi"){echo "color: rgb(68, 70, 74)!important";}?>">Bmi Calculator</a>
+                        <a class="nav-link" aria-current="page" href="roi.php"
+                           style="<?php if($page == "roi"){echo "color: rgb(68, 70, 74)!important";}?>">Return On Investment Calculator</a>
+                        <a class="nav-link" aria-current="page" href="rekentool.php"
+                           style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
+                        <a class="nav-link" aria-current="page" href="list.php"
+                           style="<?php if($page == "list"){echo "color: rgb(68, 70, 74)!important";}?>">To-Do List</a>
+                    </div>
+                </div>
                 <div class="nav-link dropdown">
                     <button class="dropbtn">Spellen
                     <i class="fa fa-caret-down"></i>

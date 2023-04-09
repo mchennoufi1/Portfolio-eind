@@ -25,12 +25,12 @@
                            style="<?php if($page == "projecten"){echo "color: rgb(68, 70, 74)!important";}?>">Project Overzicht</a>
                         <a class="nav-link" aria-current="page" href="bmi.php"
                            style="<?php if($page == "bmi"){echo "color: rgb(68, 70, 74)!important";}?>">Bmi Calculator</a>
-                        <a class="nav-link" aria-current="page" href="roi.php"
-                           style="<?php if($page == "roi"){echo "color: rgb(68, 70, 74)!important";}?>">Return On Investment Calculator</a>
                         <a class="nav-link" aria-current="page" href="rekentool.php"
                            style="<?php if($page == "rekentool"){echo "color: rgb(68, 70, 74)!important";}?>">Rekenmachine</a>
                         <a class="nav-link" aria-current="page" href="list.php"
                            style="<?php if($page == "list"){echo "color: rgb(68, 70, 74)!important";}?>">To-Do List</a>
+                        <a class="nav-link" aria-current="page" href="counter.php"
+                           style="<?php if($page == "counter"){echo "color: rgb(68, 70, 74)!important";}?>">Text Counter</a>
                     </div>
                 </div>
                 <div class="nav-link dropdown">
@@ -48,7 +48,9 @@
                     </button>
                     <div class="dropdown-content">
                     <a class="nav-link" aria-current="page" href="size.php"
-                style="<?php if($page == "size"){echo "color: rgb(68, 70, 74)!important";}?>">Size Calculator</a>
+                    style="<?php if($page == "size"){echo "color: rgb(68, 70, 74)!important";}?>">Size Calculator</a>
+                    <a class="nav-link" aria-current="page" href="roi.php"
+                       style="<?php if($page == "roi"){echo "color: rgb(68, 70, 74)!important";}?>">Return On Investment Calculator</a>
                     </div>
                 </div>
             </div>

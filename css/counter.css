@@ -1,0 +1,40 @@
+.counter {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+    text-align: center;
+    border: 0.5px #252424 solid;
+    box-shadow: 0 4px 8px 0 rgba(32, 32, 32, 0.2),
+    0 5px 15px 0 rgba(30, 30, 30, 0.19);
+    border-radius: 10px;
+    position: relative;
+}
+textarea {
+    width: 100%;
+    resize: none;
+    height: 10rem;
+    margin-bottom: 2rem;
+    border: 1px #8f8a8a solid;
+    border-radius: 5px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+.title {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+.status {
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: none;
+    font-size: 0.8rem;
+    border-radius: 0 0 10px 10px;
+    transition: 1s;
+}

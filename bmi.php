@@ -16,10 +16,9 @@
             ?>
         </header>
         <main>
-            
-                <div class="wrapper">
-                <div class="card">
-                <div class="card-header"><h3>BMI Calculator</h3></div>
+                <div class="card bmi">
+                <h3>BMI Calculator</h3>
+                    <div class="inputfield">
                     <p>Height in CM:    
                         <input type="text" id="height"><br><span id="height_error"></span>
                     </p>
@@ -27,13 +26,13 @@
                         <input type="text" id="weight"><br><span id="weight_error"></span>
                     </p>
                     <button id="btn-bmi">Calculate</button>
+                    </div>
                     <p id="output"></p>
                 </div>
-            </div>
         </main>
         <br>
         <footer>
-            Mohammed Chennoufi 2021
+            Mohammed Chennoufi 2023
         </footer>
     </body>
     <script src="js/bmi.js"></script>

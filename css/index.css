@@ -42,6 +42,7 @@ html.theme-dark{
   border-radius: 5px;
   background: black;
   color: white;
+  cursor: pointer;
 }
 
 footer{

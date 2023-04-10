@@ -22,7 +22,7 @@
                         <div class="card-body justify-content-center">
                             <span><img src="img/leeuw.jpeg" alt="code" width="100%" height="300px"style="object-fit: cover;"></span>
                             <h3 class="card-body">Mohammed Chennoufi</h3>
-                             <p class="card-body">Ik ben Mohammed Chennoufi en ik ben 19 jaar oud. 
+                             <p class="card-body">Ik ben Mohammed Chennoufi en ik ben 20 jaar oud.
                                 Ik volg nu de opleiding Software Developer Niveau 4, op het ROC Mondriaan Locatie Tinwerf. 
                                 Mijn hobbies zijn sporten, gamen, films kijken, youtube video's kijken en boeken lezen. 
                                 Ik help graag mensen en ik spreek respectvol tegenover anderen. 
@@ -36,7 +36,7 @@
                 <h3 class="projecten">Projecten</h3>
                 <div class="row">
                     <div class="col-md-4">
-                    <a href="spel.php"><div class="card">
+                    <a href="tictactoe.php"><div class="card">
                     <h6 class="card-body">Tic Tac Toe</h6>
                     <img class="calculatorfoto" src="img/spel.png" alt="spel" width="100%" height="200px" style="object-fit: cover;">         
                     </div>
@@ -60,7 +60,7 @@
             <div class="clr"></div>
         </main>
         <footer>
-            Mohammed Chennoufi 2021
+            Mohammed Chennoufi 2023
         </footer>
     </body>
     <script src="js/index.js"></script>

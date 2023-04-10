@@ -5,26 +5,26 @@
     include("includes/head.php");
     require("includes/database.php");
     ?>
-    <link rel="stylesheet" href="css/list.css">
-    <title>To-Do List - Portfolio</title>
+    <link rel="stylesheet" href="css/notes.css">
+    <title>Notes - Portfolio</title>
 </head>
 <body>
 <header>
     <?php
-    $page = "list";
+    $page = "notes";
     include("includes/header.php");
     ?>
 </header>
 <main>
-    <div class="container taskbox">
-        <div class="header">To-Do List</div>
-        <div id="newtask">
-            <input type="text" placeholder="Task to be done..">
+    <div class="container notebox">
+        <div class="header">Notes</div>
+        <div id="newnote">
+            <textarea type="text" placeholder="Notes.."></textarea>
             <button id="push">Add</button>
         </div>
-        <div id="tasks"></div>
+        <div id="notes"></div>
     </div>
-    <script src="js/list.js"></script>
+    <script src="js/notes.js"></script>
 </main>
 <br>
 <footer>

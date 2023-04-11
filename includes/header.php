@@ -40,6 +40,8 @@
                     <div class="dropdown-content">
                     <a class="nav-link" aria-current="page" href="tictactoe.php"
                 style="<?php if($page == "tic"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
+                        <a class="nav-link" aria-current="page" href="snake.php"
+                           style="<?php if($page == "snake"){echo "color: rgb(68, 70, 74)!important";}?>">Snake Game</a>
                     </div>
                 </div>
                 <div class="nav-link dropdown">
@@ -57,7 +59,7 @@
         </div>
 </div>
 </nav>
-<br><br>
+<br>
 <div class="container" id="Switcher">
     <h3>Change Webpage Background</h3>
     <btn id="switch">Switch</btn>

@@ -1,0 +1,15 @@
+.gc{
+    margin: 0px auto;
+    object-fit: cover;
+    padding: 0;
+    width: 400px;
+    text-align: left;
+}
+.gc canvas{
+    border-radius: 5px;
+    margin-bottom: -17px;
+}
+
+.gc p{
+    font-family: 'Times New Roman', Times, serif;
+}

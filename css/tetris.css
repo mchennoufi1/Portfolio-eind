@@ -2,9 +2,13 @@ canvas {
     margin:  0 auto;
     position: relative;
     text-align: center;
+    border: 5px solid #fff;
     border-radius: 10px;
     object-fit: cover;
+    width: 220px;
+    height: 400px;
     display: flex;
+    margin-right: 25px;
 }
 .game{
     position: relative;
@@ -12,10 +16,10 @@ canvas {
     text-align: left;
     object-fit: cover;
     width: 40%;
-    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
 }
 
-.snake {
+.tetris {
     max-width: 750px;
     margin: 0 auto;
     display: flex;

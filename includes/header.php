@@ -42,6 +42,8 @@
                 style="<?php if($page == "tic"){echo "color: rgb(68, 70, 74)!important";}?>">Tic Tac Toe</a>
                         <a class="nav-link" aria-current="page" href="snake.php"
                            style="<?php if($page == "snake"){echo "color: rgb(68, 70, 74)!important";}?>">Snake Game</a>
+                           <a class="nav-link" aria-current="page" href="tetris.php"
+                           style="<?php if($page == "tetris"){echo "color: rgb(68, 70, 74)!important";}?>">Tetris</a>
                     </div>
                 </div>
                 <div class="nav-link dropdown">

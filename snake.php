@@ -16,13 +16,18 @@
     ?>
 </header>
 <main>
-    <div class="gc">
+    <div class="snake">
+        <div class="game">
+            <h3>Snake Game</h3>
         <p>Game Instructions: Use the bottoms up, down,
             left and right to control the snake.
             Eat the red spots to grow your snake.
             Try not to touch your tail! Press any of the keys to start.
         </p>
+        </div>
+        <div>
     <canvas id="gc" width="400" height="400"></canvas>
+</div>
     </div>
 </main>
 <br>

@@ -20,39 +20,42 @@
                 <div class="col-md-12 text-center">
                     <div class="container">
                         <div class="card-body justify-content-center">
-                            <span><img src="img/leeuw.jpeg" alt="code" width="100%" height="300px"style="object-fit: cover;"></span>
-                            <h3 class="card-body">Mohammed Chennoufi</h3>
-                             <p class="card-body">Ik ben Mohammed Chennoufi en ik ben 20 jaar oud.
-                                Ik volg nu de opleiding Software Developer Niveau 4, op het ROC Mondriaan Locatie Tinwerf. 
-                                Mijn hobbies zijn sporten, gamen, films kijken, youtube video's kijken en boeken lezen. 
-                                Ik help graag mensen en ik spreek respectvol tegenover anderen. 
-                                Ik heb ongeveer een jaar gewerkt in een bloemenwinkel, waarbij ik bloemen en planten heb verkocht.
+                            <div class="container">
+                                <span>
+                                    <img src="img/span8.jpeg" alt="code" width="100%" height="300px"style="object-fit: cover;">
+                                    
+                                <h4>Welcome to my Portfolio Website</h4>
+                                </span>
+                            </div>
+                             <p class="card-body">My name is Mohammed Chennoufi and I'm 20 years old.
+                                I am studying Software Developer on ROC Mondriaan Tinwerf. 
+                                My hobbies are working out, reading, gaming, watching movies and series.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="inhoud-begin">
-                <h3 class="projecten">Projecten</h3>
+                <h3 class="projecten">Projects</h3>
                 <div class="row">
                     <div class="col-md-4">
                     <a href="tictactoe.php"><div class="card">
                     <h6 class="card-body">Tic Tac Toe</h6>
-                    <img class="calculatorfoto" src="img/spel.png" alt="spel" width="100%" height="200px" style="object-fit: cover;">         
+                    <img class="calculatorfoto" src="img/tictactoe.png" alt="spel" width="100%" height="200px" style="object-fit: cover;">         
                     </div>
                     </div>
                     </a>
                     <div class="col-md-4">
                     <a href="rekentool.php"><div class="card">
-                    <h6 class="card-body">Rekentool</h6>
+                    <h6 class="card-body">Calculator</h6>
                     <img class="calculatorfoto" src="img/calculator.png" alt="calculator" width="100%" height="200px" style="object-fit: cover;">             
                     </div>
                     </div>
                     </a>
                     <div class="col-md-4">
                     <a href="index.php"><div class="card">
-                    <h6 class="card-body">Thema-switcher</h6>
-                    <img class="calculatorfoto" src="img/thema-switcher.png" alt="thema-switcher" width="100%" height="200px" style="object-fit: cover;">         
+                    <h6 class="card-body">Theme-switcher</h6>
+                    <img class="calculatorfoto" src="img/theme-switcher.png" alt="thema-switcher" width="100%" height="200px" style="object-fit: cover;">         
                     </div>
                     </a>
             </div>

@@ -13,8 +13,10 @@
     padding: 20px;
     margin: auto;
     height: 350px;
+    max-width: 750px;
     width: 75%;
     border-radius: 5px;
+    border: 1px solid rgb(36, 35, 35);
     box-shadow: rgb(38, 57, 77) 0px 5px 10px 0px;
   }
 

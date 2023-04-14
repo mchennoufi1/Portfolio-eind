@@ -102,9 +102,6 @@ nav, .col-md-12{
   text-align: center!important;
 }
 
-#Beroepsprofiel, ol, .inhoud-begin{
-  text-align: left;
-}
 .projecten{
   text-align: center;
   margin-bottom: 40px;
@@ -123,7 +120,6 @@ nav, .col-md-12{
 }
 .inhoud-begin .card{
   margin: auto;
-  box-sizing: border-box;
   box-shadow: 0 4px 8px 0 rgba(32, 32, 32, 0.2), 
   0 5px 15px 0 rgba(30, 30, 30, 0.19);
 }

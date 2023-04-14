@@ -28,8 +28,7 @@
                                 </span>
                             </div>
                              <p class="card-body">My name is Mohammed Chennoufi and I'm 20 years old.
-                                I am studying Software Developer on ROC Mondriaan Tinwerf. 
-                                My hobbies are working out, reading, gaming, watching movies and series.
+                                In this website I talk a little bit <a href="over.php">about me</a> and what I do. I also show the <a href="projecten.php">projects</a> that I have worked on.
                             </p>
                         </div>
                     </div>

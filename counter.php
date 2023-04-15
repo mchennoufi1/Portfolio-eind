@@ -17,7 +17,7 @@
 </header>
 <main>
     <div class="container counter">
-        <div class="title">Text Counter</div>
+        <h3 class="title">Text Counter</h3>
         <textarea id="text" placeholder="Type your text here..."></textarea>
         <div class="status">
             <span id="char"></span>

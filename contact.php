@@ -6,6 +6,7 @@
             require("includes/database.php");
         ?>
         <title>Contact | Portfolio</title>
+        <link rel="stylesheet" href="css/about.css">
     </head>
     <body>
         <header>
@@ -16,16 +17,17 @@
             
         </header>
         <main>
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="card">
-                        <div class="card-body justify-content-center">
-                            <h3 class="card-title">Contactgegevens</h3>
-                            <p class="card-header">Naam: Mohammed Chennoufi</p>
-                            <p class="card-header">Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
-                            <p class="card-header">E-Mail: mohammed_chennoufi@outlook.com</p>
-                            <p class="card-header">LinkedIn: <a href="https://www.linkedin.com/in/mohammed-chennoufi-aa687a207/">Mohammed Chennoufi</a></p>
-                            <br>
+                    <div class="card contact">
+                            <h3 class="card-header">Contactgegevens</h3>
+                            <div class="card-body">
+                            <p>Naam: Mohammed Chennoufi</p>
+                            <p>Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
+                            <p>E-Mail: mohammed_chennoufi@outlook.com</p>
+                            <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammed-chennoufi-aa687a207/">Mohammed Chennoufi</a></p>
+                            <p>Social media: 
+                                <a href="https://www.instagram.com/gghm070/">gghm070</a>
+                            </p>
+                            
                             <form class="my-form" action="" method="post">
                             <div class="form-group">
                                 <label>Email-adres:</label>
@@ -39,12 +41,8 @@
                                 <input type="submit" name="submit" value="Versturen">
                             </div>
                             </form>
-                            <p class="card-header">Social media: 
-                                <a href="https://www.instagram.com/mohammed070._/">mohammed070._</a>
-                            </p>
                         </div>
-                    </div>
-
+                        </div>
                     <?php
                         if(isset($_POST['submit']))
                         {
@@ -59,17 +57,14 @@
 
                             if($sent)
                             {
-                                echo "heeeeelgoed";
+                                echo "Gelukt";
                             }
                             else
                             {
-                                echo "niettttgoed";
+                                echo "Niet gelukt";
                             }
                         }
                     ?>
-
-                </div>
-            </div>
         </main>
         <footer>
             Mohammed Chennoufi 2023

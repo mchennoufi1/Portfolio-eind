@@ -17,16 +17,6 @@
         </header>
         <main>
             <div class="about">
-                <div class="card aboutMe">
-                    <h3 class="card-header">About me</h3>
-                    <img class="card-body" src="img/code.jpg" alt="code" width="100%" height="300px"style="object-fit: cover;">
-                        <p class="card-body">My name is Mohammed Chennoufi and I'm 20 years old. 
-                        I'm a student, I study Software Development on ROC Mondriaan Tinwerf. 
-                        My hobbies are working out, gaming, reading, watching movies and series. 
-                        I'm currently learning some languages. I am learning Spanish, Arabic and Japanese.
-                        I have worked in a flowershop for a year and I am currently working as a cleaner.
-                    </p>
-                </div>
                 <div class="card beroepsprofiel">
                     <h3 class="card-header">Professional Profile</h3>
                     <h4 class="card-body">Software Developer</h4>
@@ -46,6 +36,16 @@
                         <li>Having enough patience</li>   
                         <li>They like to solve problems</li>
                     </ol>
+                </div>
+                <div class="card aboutMe">
+                    <h3 class="card-header">About me</h3>
+                    <img class="card-body" src="img/code.jpg" alt="code" width="100%" height="300px"style="object-fit: cover;">
+                        <p class="card-body">My name is Mohammed Chennoufi and I'm 20 years old. 
+                        I'm a student, I study Software Development on ROC Mondriaan Tinwerf. 
+                        My hobbies are working out, gaming, reading, watching movies and series. 
+                        I'm currently learning some languages. I am learning Spanish, Arabic and Japanese.
+                        I have worked in a flowershop for a year and I am currently working as a cleaner.
+                    </p>
                 </div>
             </div>
             

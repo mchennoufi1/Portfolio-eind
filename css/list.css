@@ -1,6 +1,8 @@
 
 .taskbox{
-    width: 40%;
+    width: 90%;
+    max-width: 400px;
+    min-height: 200px;
     background: white;
     border-radius: 5px;
     text-align: center;

@@ -24,7 +24,10 @@
                             <p>Telefoonnummer:<a href="tel:0617631457">0617631457</a></p>
                             <p>E-Mail: mohammed_chennoufi@outlook.com</p>
                             <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammed-chennoufi-aa687a207/">Mohammed Chennoufi</a></p>
-                            <p>Social media: 
+                            <p>Facebook: 
+                                <a href="https://www.facebook.com/profile.php?id=100003470063115">Mohammed Ghareeb</a>
+                            </p>
+                            <p>Instagram: 
                                 <a href="https://www.instagram.com/gghm070/">gghm070</a>
                             </p>
                             

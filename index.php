@@ -47,7 +47,7 @@
                     <div class="col-md-4">
                     <a href="rekentool.php"><div class="card">
                     <h6 class="card-body">Calculator</h6>
-                    <img class="calculatorfoto" src="img/calculator.png" alt="calculator" width="100%" height="200px" style="object-fit: cover;">             
+                    <img class="calculatorfoto" src="img/calculator2.png" alt="calculator" width="100%" height="200px" style="object-fit: cover;">             
                     </div>
                     </div>
                     </a>

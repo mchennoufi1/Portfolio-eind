@@ -11,7 +11,7 @@
     <body>
         <header>
             <?php
-                $page = "tictactoe";
+                $page = "tic";
                 include("includes/header.php");
             ?>
         </header>

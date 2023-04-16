@@ -17,14 +17,6 @@
         </header>
         <main>
             <br>
-            <div class="card cards">
-            <h3 class="card-header">CV</h3>
-            <a href="cv.php"><img class="card-body" src="img/cv3.png" alt="CV" width="90%"></a>
-            </div>
-            <div class="card">
-            <h3 class="card-header">Grid</h3>
-            <img class="card-body" src="img/grid-oefen.png" alt="CV" width="90%">
-            </div>
             <div class="card">
             <h3 class="card-header">Thema-Switcher</h3>
             <br><br>
@@ -34,7 +26,7 @@
                 Ik ben er trots op dat de thema niet terugveranderd naar licht 
                 wanneer de pagina wordt gerefreshed.
             </p>
-            <a href="index.php"><img class="card-body" src="img/thema-switcher.png" alt="CV" width="90%"></a>
+            <a href="index.php"><img class="card-body" src="img/theme-switcher.png" alt="CV" width="90%"></a>
             </div>
             <div class="card">
             <h3 class="card-header">Calculator</h3>
@@ -47,19 +39,68 @@
             <a href="rekentool.php"><img class="card-body" src="img/calculator.png" alt="CV" width="90%"></a>
             </div>
             <div class="card">
+            <h3 class="card-header">Bmi Calculator</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="bmi.php"><img class="card-body" src="img/bmi.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
+            <h3 class="card-header">Text counter</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="counter.php"><img class="card-body" src="img/counter.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
+            <h3 class="card-header">To-Do List</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="list.php"><img class="card-body" src="img/list.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
+            <h3 class="card-header">Snake Game</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="snake.php"><img class="card-body" src="img/snake.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
+            <h3 class="card-header">Tetris</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="tetris.php"><img class="card-body" src="img/tetris.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
             <h3 class="card-header">Tic Tac Toe</h3>
             <p class="card-body">De Tic Tac Toe staat op de <a href="spel.php">Tic Tac Toe</a> pagina. 
                 Ik ben er trots op dat de naam van de spelers op het scherm kan wisselen.
             </p>
-            <a href="spel.php"><img class="card-body" src="img/spel.png" alt="CV" width="90%"></a>
+            <a href="spel.php"><img class="card-body" src="img/tictactoe.png" alt="CV" width="90%"></a>
             <br><br>
+            </div>
+            <div class="card">
+            <h3 class="card-header">Size Calculator</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="size.php"><img class="card-body" src="img/size2.png" alt="CV" width="90%"></a>
+            </div>
+            <div class="card">
+            <h3 class="card-header">Return on Investment Calculator</h3>
+            <br><br>
+            <p class="card-body">
+            </p>
+            <a href="roi.php"><img class="card-body" src="img/roi.png" alt="CV" width="90%"></a>
             </div>
             <div class="card">
             <h3 class="card-header">Zuzu</h3>
             <p class="card-body">De website Zuzu is gemaakt als een webshop, 
                 waarin klanten diverse sushi kunnen bestellen.
             </p>
-            <img class="card-body" src="img/zuzu.jpeg" alt="zuzu" width="90%">
+            <img class="card-body" src="img/zuzu2.png" alt="zuzu" width="90%">
             <br>
             </div>
         </main>
